@@ -1,0 +1,6 @@
+[submodule "submod1"]
+	path = submod1
+	url = ../submod1
+[submodule "submod2"]
+	path = submod2
+	url = ../submod2
